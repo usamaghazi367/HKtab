@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HKtab.Backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af992f4416237afc38793bc98a05ea8d6abff21d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a8abd8564d962033d7be58ec2937dc69cdf140d")]
 [assembly: System.Reflection.AssemblyProductAttribute("HKtab.Backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HKtab.Backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
